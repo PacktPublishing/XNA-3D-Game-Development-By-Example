@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GridElements>
+  <PlayerFinish Col="25" Row="13" />
+  <PlayerStart Col="1" Row="13" />
+  <Blocks>
+    <Block AssetId="3" Col="0" Row="14" />
+    <Block AssetId="3" Col="3" Row="14" />
+    <Block AssetId="3" Col="4" Row="14" />
+    <Block AssetId="3" Col="5" Row="14" />
+    <Block AssetId="3" Col="8" Row="14" />
+    <Block AssetId="3" Col="9" Row="14" />
+    <Block AssetId="3" Col="13" Row="14" />
+    <Block AssetId="3" Col="12" Row="14" />
+    <Block AssetId="3" Col="15" Row="14" />
+    <Block AssetId="3" Col="19" Row="14" />
+    <Block AssetId="3" Col="17" Row="14" />
+    <Block AssetId="3" Col="23" Row="14" />
+    <Block AssetId="3" Col="25" Row="14" />
+    <Block AssetId="3" Col="25" Row="0" />
+    <Block AssetId="3" Col="25" Row="3" />
+    <Block AssetId="3" Col="25" Row="7" />
+    <Block AssetId="3" Col="25" Row="9" />
+    <Block AssetId="3" Col="25" Row="11" />
+    <Block AssetId="3" Col="25" Row="12" />
+    <Block AssetId="3" Col="0" Row="13" />
+    <Block AssetId="3" Col="0" Row="12" />
+    <Block AssetId="3" Col="0" Row="9" />
+    <Block AssetId="3" Col="0" Row="10" />
+    <Block AssetId="3" Col="0" Row="7" />
+    <Block AssetId="3" Col="0" Row="6" />
+    <Block AssetId="3" Col="0" Row="4" />
+    <Block AssetId="3" Col="0" Row="1" />
+    <Block AssetId="3" Col="0" Row="3" />
+    <Block AssetId="3" Col="24" Row="0" />
+    <Block AssetId="3" Col="22" Row="0" />
+    <Block AssetId="3" Col="3" Row="0" />
+    <Block AssetId="3" Col="2" Row="0" />
+    <Block AssetId="3" Col="0" Row="0" />
+    <Block AssetId="1" Col="2" Row="14" />
+    <Block AssetId="1" Col="6" Row="14" />
+    <Block AssetId="1" Col="10" Row="14" />
+    <Block AssetId="1" Col="14" Row="14" />
+    <Block AssetId="1" Col="16" Row="14" />
+    <Block AssetId="2" Col="25" Row="8" />
+    <Block AssetId="2" Col="25" Row="10" />
+    <Block AssetId="2" Col="0" Row="2" />
+    <Block AssetId="2" Col="0" Row="5" />
+    <Block AssetId="2" Col="0" Row="8" />
+    <Block AssetId="2" Col="0" Row="11" />
+    <Block AssetId="1" Col="1" Row="12" />
+    <Block AssetId="1" Col="4" Row="11" />
+    <Block AssetId="1" Col="5" Row="11" />
+    <Block AssetId="1" Col="2" Row="9" />
+    <Block AssetId="1" Col="4" Row="8" />
+    <Block AssetId="1" Col="24" Row="12" />
+    <Block AssetId="1" Col="23" Row="12" />
+    <Block AssetId="1" Col="22" Row="12" />
+    <Block AssetId="2" Col="22" Row="3" />
+    <Block AssetId="2" Col="6" Row="8" />
+    <Block AssetId="2" Col="8" Row="8" />
+    <Block AssetId="2" Col="9" Row="8" />
+    <Block AssetId="2" Col="4" Row="5" />
+    <Block AssetId="2" Col="1" Row="5" />
+    <Block AssetId="2" Col="2" Row="5" />
+    <Block AssetId="2" Col="3" Row="1" />
+    <Block AssetId="2" Col="3" Row="2" />
+    <Block AssetId="2" Col="3" Row="3" />
+    <Block AssetId="2" Col="6" Row="11" />
+    <Block AssetId="2" Col="6" Row="10" />
+    <Block AssetId="2" Col="6" Row="9" />
+    <Block AssetId="2" Col="7" Row="11" />
+    <Block AssetId="2" Col="8" Row="11" />
+    <Block AssetId="2" Col="9" Row="12" />
+    <Block AssetId="1" Col="10" Row="8" />
+    <Block AssetId="1" Col="11" Row="8" />
+    <Block AssetId="1" Col="12" Row="8" />
+    <Block AssetId="1" Col="13" Row="8" />
+    <Block AssetId="1" Col="10" Row="12" />
+    <Block AssetId="1" Col="11" Row="12" />
+    <Block AssetId="2" Col="9" Row="9" />
+    <Block AssetId="2" Col="22" Row="1" />
+    <Block AssetId="1" Col="21" Row="3" />
+    <Block AssetId="1" Col="19" Row="3" />
+    <Block AssetId="1" Col="15" Row="3" />
+    <Block AssetId="1" Col="13" Row="3" />
+    <Block AssetId="1" Col="13" Row="4" />
+    <Block AssetId="1" Col="12" Row="4" />
+    <Block AssetId="1" Col="8" Row="6" />
+    <Block AssetId="1" Col="24" Row="7" />
+    <Block AssetId="1" Col="23" Row="8" />
+    <Block AssetId="1" Col="22" Row="9" />
+    <Block AssetId="1" Col="21" Row="10" />
+    <Block AssetId="1" Col="20" Row="11" />
+    <Block AssetId="1" Col="19" Row="12" />
+    <Block AssetId="1" Col="20" Row="12" />
+    <Block AssetId="1" Col="21" Row="12" />
+    <Block AssetId="1" Col="21" Row="11" />
+    <Block AssetId="1" Col="22" Row="11" />
+    <Block AssetId="1" Col="22" Row="10" />
+    <Block AssetId="1" Col="23" Row="11" />
+    <Block AssetId="1" Col="23" Row="10" />
+    <Block AssetId="1" Col="23" Row="9" />
+    <Block AssetId="1" Col="24" Row="8" />
+    <Block AssetId="1" Col="24" Row="9" />
+    <Block AssetId="1" Col="24" Row="10" />
+    <Block AssetId="1" Col="24" Row="11" />
+    <Block AssetId="2" Col="21" Row="6" />
+    <Block AssetId="2" Col="19" Row="6" />
+    <Block AssetId="2" Col="18" Row="6" />
+    <Block AssetId="2" Col="17" Row="6" />
+    <Block AssetId="1" Col="8" Row="7" />
+    <Block AssetId="1" Col="13" Row="6" />
+    <Block AssetId="1" Col="21" Row="4" />
+    <Block AssetId="1" Col="20" Row="4" />
+    <Block AssetId="1" Col="19" Row="4" />
+    <Block AssetId="2" Col="14" Row="8" />
+    <Block AssetId="2" Col="14" Row="10" />
+    <Block AssetId="2" Col="14" Row="11" />
+    <Block AssetId="2" Col="14" Row="9" />
+    <Block AssetId="2" Col="15" Row="10" />
+    <Block AssetId="2" Col="14" Row="12" />
+    <Block AssetId="2" Col="14" Row="13" />
+    <Block AssetId="2" Col="15" Row="12" />
+    <Block AssetId="2" Col="15" Row="13" />
+    <Block AssetId="2" Col="16" Row="12" />
+    <Block AssetId="2" Col="16" Row="13" />
+    <Block AssetId="2" Col="17" Row="13" />
+    <Block AssetId="1" Col="26" Row="0" />
+    <Block AssetId="1" Col="26" Row="1" />
+    <Block AssetId="1" Col="26" Row="3" />
+    <Block AssetId="1" Col="26" Row="2" />
+    <Block AssetId="1" Col="26" Row="4" />
+    <Block AssetId="1" Col="26" Row="5" />
+    <Block AssetId="1" Col="26" Row="6" />
+    <Block AssetId="1" Col="26" Row="7" />
+    <Block AssetId="1" Col="26" Row="8" />
+    <Block AssetId="1" Col="26" Row="9" />
+    <Block AssetId="1" Col="26" Row="10" />
+    <Block AssetId="1" Col="26" Row="11" />
+    <Block AssetId="1" Col="26" Row="12" />
+    <Block AssetId="1" Col="26" Row="13" />
+    <Block AssetId="1" Col="26" Row="14" />
+    <Block AssetId="0" Col="9" Row="6" />
+    <Block AssetId="0" Col="10" Row="6" />
+    <Block AssetId="0" Col="11" Row="6" />
+    <Block AssetId="0" Col="12" Row="6" />
+    <Block AssetId="2" Col="23" Row="0" />
+    <Block AssetId="3" Col="15" Row="11" />
+    <Block AssetId="3" Col="16" Row="11" />
+    <Block AssetId="3" Col="7" Row="8" />
+    <Block AssetId="3" Col="5" Row="8" />
+    <Block AssetId="3" Col="2" Row="12" />
+    <Block AssetId="3" Col="9" Row="11" />
+    <Block AssetId="3" Col="10" Row="11" />
+    <Block AssetId="3" Col="1" Row="9" />
+    <Block AssetId="3" Col="3" Row="5" />
+    <Block AssetId="3" Col="5" Row="5" />
+    <Block AssetId="3" Col="16" Row="6" />
+    <Block AssetId="3" Col="14" Row="6" />
+    <Block AssetId="4" Col="15" Row="6" />
+    <Block AssetId="4" Col="20" Row="6" />
+    <Block AssetId="4" Col="20" Row="3" />
+    <Block AssetId="4" Col="24" Row="3" />
+    <Block AssetId="4" Col="23" Row="3" />
+    <Block AssetId="4" Col="14" Row="3" />
+    <Block AssetId="4" Col="1" Row="0" />
+    <Block AssetId="4" Col="1" Row="14" />
+    <Block AssetId="4" Col="18" Row="14" />
+    <Block AssetId="4" Col="22" Row="14" />
+    <Block AssetId="4" Col="24" Row="14" />
+    <Block AssetId="3" Col="21" Row="14" />
+    <Block AssetId="3" Col="20" Row="14" />
+    <Block AssetId="3" Col="11" Row="14" />
+    <Block AssetId="3" Col="7" Row="14" />
+  </Blocks>
+  <Props>
+    <Prop AssetId="0" Col="9" Row="5" />
+    <Prop AssetId="1" Col="10" Row="5" />
+    <Prop AssetId="1" Col="11" Row="5" />
+    <Prop AssetId="2" Col="12" Row="5" />
+    <Prop AssetId="3" Col="14" Row="2" />
+    <Prop AssetId="5" Col="10" Row="7" />
+    <Prop AssetId="5" Col="11" Row="7" />
+    <Prop AssetId="4" Col="13" Row="7" />
+    <Prop AssetId="3" Col="1" Row="8" />
+    <Prop AssetId="5" Col="5" Row="10" />
+    <Prop AssetId="3" Col="15" Row="9" />
+  </Props>
+  <Triggers>
+    <Trigger AssetId="0" Col="4" Row="13" IsOn="False" FlipTime="0">
+      <LinkedReceiver>0</LinkedReceiver>
+      <LinkedReceiver>1</LinkedReceiver>
+    </Trigger>
+    <Trigger AssetId="0" Col="24" Row="2" IsOn="False" FlipTime="0">
+      <LinkedReceiver>2</LinkedReceiver>
+    </Trigger>
+    <Trigger AssetId="1" Col="1" Row="4" IsOn="True" FlipTime="0">
+      <LinkedReceiver>1</LinkedReceiver>
+      <LinkedReceiver>3</LinkedReceiver>
+    </Trigger>
+    <Trigger AssetId="1" Col="7" Row="10" IsOn="True" FlipTime="0">
+      <LinkedReceiver>4</LinkedReceiver>
+      <LinkedReceiver>5</LinkedReceiver>
+    </Trigger>
+    <Trigger AssetId="1" Col="24" Row="6" IsOn="False" FlipTime="10">
+      <LinkedReceiver>6</LinkedReceiver>
+    </Trigger>
+  </Triggers>
+  <Receivers>
+    <Receiver AssetId="0" Col="22" Row="13" IsOpen="False" ReceiverId="2" />
+    <Receiver AssetId="0" Col="3" Row="4" IsOpen="True" ReceiverId="4" />
+    <Receiver AssetId="0" Col="9" Row="13" IsOpen="False" ReceiverId="0" />
+    <Receiver AssetId="0" Col="9" Row="10" IsOpen="False" ReceiverId="3" />
+    <Receiver AssetId="0" Col="22" Row="2" IsOpen="False" ReceiverId="1" />
+    <Receiver AssetId="0" Col="21" Row="5" IsOpen="False" ReceiverId="5" />
+    <Receiver AssetId="1" Col="16" Row="3" IsOpen="True" ReceiverId="6" />
+  </Receivers>
+</GridElements>

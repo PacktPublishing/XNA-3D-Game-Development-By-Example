@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ToolAssets>
+  <Blocks>
+	<Block id="0" assetName="InvisibleBlock.png"/>
+    <Block id="1" assetName="block_A.png"/>
+	<Block id="2" assetName="block_B.png"/>
+	<Block id="3" assetName="block_C.png"/>
+	<Block id="4" assetName="block_D.png"/>
+  </Blocks>
+  <Triggers>
+	<Trigger id="0" assetName="FlipTrigger_Off.png" assetOnName="FlipTrigger_On.png"/>
+	<Trigger id="1" assetName="PushTrigger_Off.png" assetOnName="PushTrigger_On.png"/>
+  </Triggers>
+  <Props>
+  <Prop id="0" assetName="BridgeStart.png"/>
+  <Prop id="1" assetName="BridgeMiddle.png"/>
+  <Prop id="2" assetName="BridgeEnd.png"/>
+  <Prop id="3" assetName="Pumpkin.png"/>
+  <Prop id="4" assetName="Spiderweb.png"/>
+  <Prop id="5" assetName="Grave.png"/>
+  </Props>
+  <Receivers>
+	<Receiver id="0" assetName="SlidePort_Closed.png" assetOpenName="SlidePort_Open.png"/>
+	<Receiver id="1" assetName="FlipBridge_Closed.png" assetOpenName="FlipBridge_Open.png"/>
+  </Receivers>
+</ToolAssets>
